@@ -1,4 +1,4 @@
-Task 1. Open Remix and implement a Counter contract:
+Task 1. Open [Remix](https://remix.ethereum.org/) and implement a Counter contract:
 - pass the initial value through the constructor
 - implement increment() and decrement() functions
 - implement a getter function
