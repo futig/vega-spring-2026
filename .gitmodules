@@ -1,0 +1,6 @@
+[submodule "hw-2/lib/openzeppelin-contracts"]
+	path = hw-2/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "hw-2/lib/forge-std"]
+	path = hw-2/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
